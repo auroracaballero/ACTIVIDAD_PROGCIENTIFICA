@@ -1,1 +1,2 @@
 # Aquí se almacenarían los datos de las secuencias que queremos comparar en nuestro análisis. Sería un lugar donde almacenar las secuencias que usaremos. Las secuencias deben estar en formato FASTA.
+# Crearíamos dos carpetas: una para las secuencias de *Drosophila melanogaster* (secuencia_drosophila.fasta) y otra para las secuencias de *Homo sapiens sapiens* (secuencia_homosapiens.fasta).
